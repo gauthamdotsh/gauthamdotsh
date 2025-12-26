@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am Gautham Kumaran. Passionate Full Stack Web Developer with five plus years of experience in developing Web Apps. I just started with React in 2022 and was continuing my work.
+I am comfortable in working both the Frontend and Backend and handling deployments with Docker.
+
+- 🔭 I’m currently working on a EAM360 AppPortal - Mobile app distribution supporting Android and iOS
+- 🌱 I’m currently learning Agentic AI app development leveraging RAG and Voice agents
+
+📬 Reach me gowthamkumar71298@gmail.com
 <!--
 **gauthamdotsh/gauthamdotsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
